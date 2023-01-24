@@ -21,3 +21,5 @@ Copy our file exactly like windows
  9.it cheak if the input file exists and if it doesn't then print dosen't exists
 
 10.closes the File Reader and File Writer after copying file .
+![inputpath](https://user-images.githubusercontent.com/77874745/214257554-dbc99b5a-b142-4f61-80e1-24f471cc376d.png)
+![output ](https://user-images.githubusercontent.com/77874745/214257559-7e3b7779-7151-45ba-9cae-8c2a2af70908.png)
